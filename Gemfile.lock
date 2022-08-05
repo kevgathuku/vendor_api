@@ -126,6 +126,7 @@ GEM
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
+    simple_command (1.0.1)
     spring (4.0.0)
     sprockets (4.1.1)
       concurrent-ruby (~> 1.0)
@@ -154,6 +155,7 @@ DEPENDENCIES
   listen (~> 3.3)
   puma (~> 5.0)
   rails (~> 6.1.6, >= 6.1.6.1)
+  simple_command
   spring
   sqlite3 (~> 1.4)
   tzinfo-data
